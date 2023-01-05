@@ -139,7 +139,7 @@ async function getConfiguration({ auth }) {
 async function setConfiguration({ auth, configurationChanges }) {
   return axios({
     method: "post",
-    url: "https://flex-api.twilio.com/v1/Configuration",
+    url: "https://flex-api.stage.twilio.com/v1/Configuration",
     auth: {
       username: auth.TWILIO_API_KEY,
       password: auth.TWILIO_API_SECRET,
