@@ -128,7 +128,7 @@ async function deployConfigurationData({ map, auth, environment }) {
 async function getConfiguration({ auth }) {
   return axios({
     method: "get",
-    url: "https://flex-api.twilio.com/v1/Configuration",
+    url: "https://flex-api.stage.twilio.com/v1/Configuration",
     auth: {
       username: auth.TWILIO_API_KEY,
       password: auth.TWILIO_API_SECRET,
