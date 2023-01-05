@@ -7,7 +7,7 @@
         }
       },
       "schedule_manager": {
-        "serverless_domain": "schedule-manager-3257-dev.twil.io  "
+        "serverless_domain": "schedule-manager-3257-dev.twil.io"
       }
     }
   }
