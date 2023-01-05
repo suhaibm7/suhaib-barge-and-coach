@@ -1,13 +1,13 @@
 {
   "custom_data": {
-    "serverless_functions_domain": "https://custom-flex-extensions-serverless-9007-dev.twil.io",
+    "serverless_functions_domain": "custom-flex-extensions-serverless-8804-dev.stage.twil.io",
     "features": {
       "activity_skill_filter": {
         "rules": {
         }
       },
       "schedule_manager": {
-        "serverless_domain": "https://schedule-manager-9008-dev.twil.io"
+        "serverless_domain": "schedule-manager-3257-dev.stage.twil.io"
       }
     }
   }
