@@ -27,7 +27,7 @@ function setPluginName(pluginVersion){
     originalPluginName = 'plugin-flex-ts-template-v1';
     exports.originalPluginName = originalPluginName;
   } else if (pluginVersion && pluginVersion.toLowerCase() === "v2"){
-    originalPluginName = 'plugin-flex-ts-template-v2';
+    originalPluginName = 'plugin-flex-ts-template-v2.1';
     exports.originalPluginName = originalPluginName;
   }
 }
